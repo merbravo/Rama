@@ -1,0 +1,26 @@
+[{
+ "clave": "123",
+ "direccion":"Chone",
+ "propietario": "AA",
+ "AVALUO": "1000"
+}, {
+ "clave": "456",
+ "direccion":"Junin",
+ "propietario": "BB",
+ "AVALUO": "2000"
+}, {
+"clave": "789",
+"direccion":"Calceta",
+ "propietario": "CC",
+ "AVALUO": "3000"
+}, {
+"clave": "101",
+"direccion":"Tosagua",
+ "propietario": "DD",
+ "AVALUO": "4000"
+}, {
+"clave": "121",
+"direccion":"El Carmen",
+ "propietario": "EE",
+ "AVALUO": "5000"
+}]
